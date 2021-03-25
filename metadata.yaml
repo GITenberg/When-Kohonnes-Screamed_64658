@@ -1,5 +1,8 @@
 _repo: When-Kohonnes-Screamed_64658
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64658-h/images/cover.jpg
 creator:
   author:
     agent_name: Fox, Gardner F. (Gardner Francis)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52538
     wikipedia: https://en.wikipedia.org/wiki/Gardner_Fox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64658#When-Kohonnes-Screamed
 gutenberg_issued: '2021-02-28'
 gutenberg_type: Text
 identifiers:
